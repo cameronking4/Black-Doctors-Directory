@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "951160543122",
+    "firebase_url": "https://fadr-1533970908846.firebaseio.com",
+    "project_id": "fadr-1533970908846",
+    "storage_bucket": "fadr-1533970908846.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951160543122:android:c6bb4172c220c146d0134b",
+        "android_client_info": {
+          "package_name": "com.kynginc.fadr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951160543122-edabcdekner35hs2udom92agj7dt05vr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzTRtqX9xwWvrw73UMogoSfq9S5rGPJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951160543122-edabcdekner35hs2udom92agj7dt05vr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951160543122-fk3ppij3r5iadkvqklv20673j2ju882k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kynginc.fadr"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
