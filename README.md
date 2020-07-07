@@ -1,6 +1,6 @@
-# ListingApp
+# Black MD Cares
 
-React Native App
+React Native App: How to run react native app. You must have node.js and depencies installed & use following command tools
 
 1. npm install -g react-native-cli
 2. npm install
@@ -34,6 +34,10 @@ React Native App
       pod 'Firebase/Firestore'
    pod install
 ```
+
+Check firebase console to update data and view stats
+
+BUGS:
 
 10. [node_modules/react-native/third-party/glog-0.3.4/configure](https://github.com/facebook/react-native/issues/14382)
 11. [Remove and add again libfishhook.a from Xcode and the path issue will resolve.](https://github.com/facebook/react-native/issues/19569)
